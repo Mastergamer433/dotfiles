@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/mg433/.config/i3/currentWallpaper.png' 

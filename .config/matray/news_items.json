@@ -1,0 +1,94 @@
+{
+  "Items" : [
+    {
+      "GUID" : "forum.manjaro.org-topic-101315",
+      "URL" : "https://forum.manjaro.org/t/valentines-day-opportunity/101315",
+      "Title" : "Valentine's Day opportunity",
+      "Category" : "Announcements",
+      "PublishedDate" : "2022-02-04T11:01:51Z",
+      "PublishedDateUnix" : 1643972511,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-101408",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-02-05-kernels-libreoffice-kde-gear-nvidia-calamares-virtualbox-pipewire-mesa-systemd/101408",
+      "Title" : "[Stable Update] 2022-02-05 - Kernels, LibreOffice, KDE Gear, Nvidia, Calamares, VirtualBox, Pipewire, Mesa, Systemd",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-02-05T07:44:27Z",
+      "PublishedDateUnix" : 1644047067,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-102594",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-02-14-kernels-haskell-cutefish-0-7-deepin-firefox-maui-2-1-1-systemd/102594",
+      "Title" : "[Stable Update] 2022-02-14 - Kernels, Haskell, Cutefish 0.7, Deepin, Firefox, Maui 2.1.1, Systemd",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-02-14T17:50:03Z",
+      "PublishedDateUnix" : 1644861003,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-103923",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-02-27-kernels-mesa-21-3-7-plasma-5-24-2-frameworks-5-91-pipewire-0-3-47-toolchain-gstreamer-1-20-nvidia-510-54/103923",
+      "Title" : "[Stable Update] 2022-02-27 - Kernels, Mesa 21.3.7, Plasma 5.24.2, Frameworks 5.91, Pipewire 0.3.47, Toolchain, Gstreamer 1.20, Nvidia 510.54",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-02-27T06:09:33Z",
+      "PublishedDateUnix" : 1645942173,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-105493",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-03-14-kernels-kde-libreoffice-kodi-qt5-mozilla-networkmanager-pipewire/105493",
+      "Title" : "[Stable Update] 2022-03-14 - Kernels, KDE, LibreOffice, Kodi, Qt5, Mozilla, NetworkManager, Pipewire",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-03-14T09:16:08Z",
+      "PublishedDateUnix" : 1647249368,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-108422",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-04-15-kernels-mesa-nvidia-budgie-pipewire-libreoffice-kde-frameworks-wine/108422",
+      "Title" : "[Stable Update] 2022-04-15 - Kernels, Mesa, Nvidia, Budgie, PipeWire, LIbreOffice, KDE Frameworks, Wine",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-04-15T18:56:02Z",
+      "PublishedDateUnix" : 1650048962,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-110637",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-05-13-kernels-mesa-nvidia-gnome-42-pipewire-libreoffice-kde-gear-frameworks-virtualbox-qemu-7-0/110637",
+      "Title" : "[Stable Update] 2022-05-13 - Kernels, Mesa, Nvidia, Gnome 42, PipeWire, LIbreOffice, KDE Gear & Frameworks, Virtualbox, Qemu 7.0",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-05-13T02:41:00Z",
+      "PublishedDateUnix" : 1652409660,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-111719",
+      "URL" : "https://forum.manjaro.org/t/telegram-public-channel-changes/111719",
+      "Title" : "Telegram public channel changes",
+      "Category" : "News",
+      "PublishedDate" : "2022-05-22T12:48:52Z",
+      "PublishedDateUnix" : 1653223732,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-111720",
+      "URL" : "https://forum.manjaro.org/t/telegram-channel-changes/111720",
+      "Title" : "Telegram channel changes",
+      "Category" : "News",
+      "PublishedDate" : "2022-05-22T12:55:28Z",
+      "PublishedDateUnix" : 1653224128,
+      "NotificationSent" : true
+    },
+    {
+      "GUID" : "forum.manjaro.org-topic-111847",
+      "URL" : "https://forum.manjaro.org/t/stable-update-2022-05-22-kernels-toolchain-nvidia-mesa-kde-qt-maui-libreoffice-plasma-firefox-thunderbird/111847",
+      "Title" : "[Stable Update] 2022-05-22 - Kernels, Toolchain, NVIDIA, Mesa, KDE, Qt, Maui, LibreOffice, Plasma, Firefox, Thunderbird",
+      "Category" : "Stable Updates",
+      "PublishedDate" : "2022-05-23T18:43:48Z",
+      "PublishedDateUnix" : 1653331428,
+      "NotificationSent" : true
+    }
+  ]
+}
